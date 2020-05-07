@@ -1,4 +1,4 @@
-# BruteFbnih
+# Bruteibz
 
 HACK METODE BRUTEFORCE DI TERMUX
 # Cara Install
@@ -7,7 +7,7 @@ HACK METODE BRUTEFORCE DI TERMUX
 ## $ pkg install python
 ## $ pip install requests
 ## $ pip install bs4
-## $ git clone https://github.com/Iyanibz/BruteFbnih
-## $ cd BruteFb
+## $ git clone https://github.com/Iyanibz/Bruteibz
+## $ cd Bruteibz
 ## $ python fb.py
 # OK SEKIAN DARI GUA
